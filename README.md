@@ -26,6 +26,6 @@ echo "Iniciando script shell..."
 2. Hacer el script ejecutable:
 `chmod +x mqtt-publisher.sh`
 
-3. Si queremos publicar el mensaje cada 5 minutos, por ejemplo, se añade la siguiente línea a crontab (`crontab -e`).
+3. Si queremos publicar el mensaje cada 5 minutos, por ejemplo, se añade la siguiente línea a crontab (`crontab -e`).  
 `*/5 * * * * /home/luis/tfm/mqtt-publisher.sh >> /home/luis/tfm/mqtt-publisher.logs`
 
