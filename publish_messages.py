@@ -1,13 +1,16 @@
+import os
 import json
 import boto3
 import asyncio
 from message_builder import build_messages_list
 from utils import get_timestamp, read_sequence, update_sequence
 
-SEQUENCE_FILENAME = 'sequence.txt'
+DIR_PATH = os.path.dirname(os.path.abspath(__file__))
+
+SEQUENCE_FILENAME = os.path.join(DIR_PATH, 'sequence.txt')
 MAX_SEQUENCE_NBR = 572
-SENSORDATA_FILENAME = 'data/sensorData.json'
-DEVICEINFO_FILENAME = 'data/deviceInfo.json'
+SENSORDATA_FILENAME = os.path.join(DIR_PATH, 'data/sensorData.json')
+DEVICEINFO_FILENAME = os.path.join(DIR_PATH, 'data/deviceInfo.json')
 
 
 async def send_message(message: dict, topic: str, sensor_id: str,
