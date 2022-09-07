@@ -1,0 +1,282 @@
+{
+	"046a5c8d-90d8-4470-85e2-9f6489c99141": {
+		"machineId": "1",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building1",
+		"machineType": "compressor"
+	},
+	"61089b67-940f-4e33-9ec4-c92d472ad215": {
+		"machineId": "1",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building1",
+		"machineType": "compressor"
+	},
+	"bdeb778a-9afc-4298-adb4-25505a87d3aa": {
+		"machineId": "2",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building1",
+		"machineType": "engine"
+	},
+	"c10f1663-e547-4e89-9d65-bb7047043e20": {
+		"machineId": "2",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building1",
+		"machineType": "engine"
+	},
+	"1ce3ee96-900e-40e7-9ee3-e9cc71ad471f": {
+		"machineId": "3",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building1",
+		"machineType": "pump"
+	},
+	"48bac9c5-09bc-45e0-9d9a-85a4745bca6f": {
+		"machineId": "3",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building1",
+		"machineType": "pump"
+	},
+	"13a075f6-ec98-44c1-8557-97c7ffdbdaa6": {
+		"machineId": "4",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building1",
+		"machineType": "motor"
+	},
+	"9cf7adfa-0d2b-48e9-a655-50932f83b69f": {
+		"machineId": "4",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building1",
+		"machineType": "motor"
+	},
+	"3f5f7ce2-b4bf-44ae-a5a3-58c362935cb6": {
+		"machineId": "5",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building1",
+		"machineType": "compressor"
+	},
+	"7c47bb0a-9bad-429f-a580-47fb006e7e2e": {
+		"machineId": "5",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building1",
+		"machineType": "compressor"
+	},
+	"29c63b6b-e94d-49ba-bd7b-44630b01aa53": {
+		"machineId": "6",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "engine"
+	},
+	"25097dfc-b97c-453d-adaa-ccee16d6de8a": {
+		"machineId": "6",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "engine"
+	},
+	"0c3d6cf2-b6a8-448a-bbab-1959af63c90a": {
+		"machineId": "7",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "pump"
+	},
+	"c6603bf8-849d-4265-a8b2-7b3199cb12d9": {
+		"machineId": "7",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "pump"
+	},
+	"d91004bd-4229-45cf-bbd2-e11f4e99e09e": {
+		"machineId": "8",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "motor"
+	},
+	"d209cc86-93f8-4711-9d33-cc3469a47b99": {
+		"machineId": "8",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "motor"
+	},
+	"d166bd5f-4c11-4c17-919f-5d68ef6b720d": {
+		"machineId": "9",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "compressor"
+	},
+	"3688d8cf-d594-4488-b881-cd179e2c523a": {
+		"machineId": "9",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "compressor"
+	},
+	"adf8c098-0dfa-4b14-9881-817bc0e7d278": {
+		"machineId": "10",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "engine"
+	},
+	"35fe4b56-1f44-4ec7-8347-a203c0701fdb": {
+		"machineId": "10",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "engine"
+	},
+	"8f7db2cd-0601-42bf-87ee-58e941438b6a": {
+		"machineId": "11",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "pump"
+	},
+	"07c20b0b-d937-4dbc-9914-569618038764": {
+		"machineId": "11",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "pump"
+	},
+	"98c2ab3b-e682-4237-ac3e-06ccd607d151": {
+		"machineId": "12",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "motor"
+	},
+	"e12e4309-274b-4759-9c58-8d8afa57b1f4": {
+		"machineId": "12",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "motor"
+	},
+	"3c75ec74-efd0-4f19-a9a4-1340b98a329e": {
+		"machineId": "13",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "compressor"
+	},
+	"baa104b5-5f6e-4a33-8a0b-fec320e89e67": {
+		"machineId": "13",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "compressor"
+	},
+	"178c4ec8-4507-4ca5-8984-cdf17c6a9641": {
+		"machineId": "14",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "engine"
+	},
+	"b5ca3642-6dc6-4d6b-86a1-107b3e381661": {
+		"machineId": "14",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "engine"
+	},
+	"e177fafd-e220-44ea-95b6-d1127e95edf2": {
+		"machineId": "15",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building2",
+		"machineType": "pump"
+	},
+	"6f11b8d8-6a3d-4020-9e98-45123e5ad3d6": {
+		"machineId": "15",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building2",
+		"machineType": "pump"
+	},
+	"2c6fa907-bd43-4513-97b7-f99e5f8f153c": {
+		"machineId": "16",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building3",
+		"machineType": "motor"
+	},
+	"0f9c49ac-7a7a-4a53-9670-f75971c4d6a1": {
+		"machineId": "16",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building3",
+		"machineType": "motor"
+	},
+	"240cad7d-22b9-4271-aaf1-3b7053f514d0": {
+		"machineId": "17",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building3",
+		"machineType": "compressor"
+	},
+	"07368c63-7b5a-4084-aaa3-a52eb80c499e": {
+		"machineId": "17",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building3",
+		"machineType": "compressor"
+	},
+	"7293ef62-6c63-4c00-909b-350f164b1ee7": {
+		"machineId": "18",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building3",
+		"machineType": "engine"
+	},
+	"103d570a-157d-49dd-a844-847bc6c460d3": {
+		"machineId": "18",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building3",
+		"machineType": "engine"
+	},
+	"1a82aba6-109e-47ba-890e-de5840103f5e": {
+		"machineId": "19",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building3",
+		"machineType": "pump"
+	},
+	"f9d6cc4b-542a-4e2e-908f-a4667f8bc9be": {
+		"machineId": "19",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building3",
+		"machineType": "pump"
+	},
+	"af963d20-a53e-4243-b1d8-9eaa97ee4a22": {
+		"machineId": "20",
+		"sensorType": "vibration",
+		"sensorModel": "rejeee_sl500us",
+		"location": "building3",
+		"machineType": "motor"
+	},
+	"5fe307fb-87cd-473a-a89a-cb9261cf73b2": {
+		"machineId": "20",
+		"sensorType": "temperature",
+		"sensorModel": "dragino_lsn50",
+		"location": "building3",
+		"machineType": "motor"
+	}
+}
